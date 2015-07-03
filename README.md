@@ -1,2 +1,2 @@
 # hello-world
-Podstawy gita
+Podstawy gita, chyba.
